@@ -1,8 +1,8 @@
 # Vprofile_Project
-##This My project:
+## This My project:
 <img width="1265" height="886" alt="image" src="https://github.com/user-attachments/assets/f1d4ecb6-5afb-455d-8706-81017cbe9ae1" />
 
-##for Making Project like this: 
+## for Making Project like this: 
 1- we go to make a security group so i do the following 
 - go to EC2 > Security group in the Network & security > create security rule
 <img width="1615" height="652" alt="image" src="https://github.com/user-attachments/assets/b8c38cef-3f39-4666-844c-5da4ee27a246" />
